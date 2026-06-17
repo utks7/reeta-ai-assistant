@@ -98,3 +98,9 @@ Developed by **Utkarsh** as a personal AI assistant project for learning, experi
 ## ⭐ If you like this project
 
 Consider giving it a star and following future updates as Reeta continues to evolve.
+
+Copyright (c) 2026 Utkarsh Srivastava
+
+Reeta AI is an independent personal project developed and maintained by Utkarsh Srivastava.
+
+This project is not affiliated with any employer, internship provider, fellowship program, or third-party organization.
